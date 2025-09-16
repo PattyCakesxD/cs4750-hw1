@@ -1,6 +1,6 @@
-# hw1
+# CS4750 - Homework 1
 
-A new Flutter project.
+Klondike Game using Flutter/Dart
 
 ## Getting Started
 
